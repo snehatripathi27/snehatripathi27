@@ -1,0 +1,7 @@
+# Scratch / build files
+*.py
+*.woff2
+renders/
+*.zip
+audit.py
+preview.html

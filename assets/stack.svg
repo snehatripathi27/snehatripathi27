@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 860 450" width="860" height="450" role="img"
+     aria-label="Sneha Tripathi Tech Stack — Tilted Orbital System">
+  <title>Sneha Tripathi — Tech Stack</title>
+  <!-- Font Licenses: Space Grotesk (OFL 1.1, Florian Karsten), JetBrains Mono (OFL 1.1, JetBrains) -->
+  <defs>
+    <style>
+      
+    @font-face {
+      font-family: 'Space Grotesk';
+      src: url('data:font/woff2;base64,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') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('data:font/woff2;base64,d09GMgABAAAAAASIABAAAAAACQQAAAQuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbHhwoBmA/U1RBVF4AdBEICoRkhAALIAABNgIkAzoEIAWFAAeBFAwHG2oHKJ6DceNW4lJEFHn9tEOE37LNsvkjHr7f739rn3u+OSrSxLQytE91Dw2PYtNVq3Qaw/vJ7fUBMdOj/u2ImB98cT5WUx9F13ZKt06mU7tG1sAYcM26yCRX4f/0904bmwq8hwkUUMTRX61pa9C3xlpAGYw1vOu8C2SBZZFlld7DAW82RJWmwYMI1AJCKBNCIASqdZGFmtPSNQRhMpR0EKjWTwm6z6sJ+4jqhxjovTinVdRpZaQjaQzAYjI8NgAKDJCokgunCn9oUQE8VZd/F//+v6P4F1U9gLr58yNI/dJX9BAshEoJbTDogz7ocKoUsPvES8UK/aQIUQgpGgECBVLkOEV6iASTYgNAPKdNXayhDPL7IJuAZnEYSZ0eOLc9i5Rv5/+lEi3sW/kfnCf/+fTe0sxS7CKLx5erRJkKOixEqQaoqrvx5HN4iz4VhX0gS6DjFIWUzn/fIXJRVFY1NFRVNVeFt+SYmrK6vCU6eJsnKnJj5HTESMTQZOTI3Y/tzr3rUcOsiRy/ciP50s3Mycgxmhz9GMXhjzVH30ut796NHP0UUa31/Zoa6vCH6iPvdIM0IRANaT60FablmZlZd+UKNFy9NrvnFGxb5NC2CRxR0/rIyF/WNn+35sv9r+tHVhkseuWGKkCPPh96+GXt8Lc/Sh24ujfjf+tNw1lZWreiPuHb/PSpyjdv2rf/++ZE5TSKjFdZxYsBvr1sEHl5STuHZqYR7jGYGvGBBdjcaB5bODY1GAxMjsd0wDMIzXAXODRd74DxNMtO4YuYHclgLQRzp9KlUmxptCwv9bYgvWGD2xBW7r9413fdJu+mxzvzAUYeeONQvZP4kgfqZle4jhH/MWh+UbxgtJdrLdXLymNL53PRU0D3Q6FcXTfGqGcul6vrqhgLGAVSv+IVIfZOHpu+mlLqSlnj903j8mazXDsba/wbxhS/4Oubh1c5/uXDgt4j5KtnGEy5BIJHo0ur+jD+r2qCkuP1aRVM8EpUoRYSJyqNRA38uwDvHBNo0AejO2Z+ZYLLal1QiFyFh1EDQOgSCSCpjwwKU8yDbIjroEwne0G5Qca49cYp4AlqtQNZfWTQoFb1tRpFYAmRD+HXTkV4uQhG2bg4OKmyoypAsUGtWgQXyFxYrkpODeUxvGqIZA61erXo0sFG1UBGuPgpuon8RNUG2DhovAjZCBuZwtXrU3mQGki9+pm0eVZAXoWxLWTQoYHBPrJR4WunNxIFbCHfkTyPK+sqxjxDmGArZvf79JGJ3GwEqjwc7a7NIrl/7bJ7Nzu4+n1Ow6shEPnUrtVo7cnd5Wi5qCUbBIQbNKCP95FMCSZylEV5VCiiMqqiOmrKZ/I/C0gI1fyuulVcM2E1r4MhtcV/fbCD+HwEvVzH1dGNAzFE0FTbKzyQz3gootrNbN2a4PuG0j0JOgE=') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('data:font/woff2;base64,d09GMgABAAAAAASIABAAAAAACQQAAAQuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbHhwoBmA/U1RBVF4AdBEICoRkhAALIAABNgIkAzoEIAWFAAeBFAwHG2oHKJ6DceNW4lJEFHn9tEOE37LNsvkjHr7f739rn3u+OSrSxLQytE91Dw2PYtNVq3Qaw/vJ7fUBMdOj/u2ImB98cT5WUx9F13ZKt06mU7tG1sAYcM26yCRX4f/0904bmwq8hwkUUMTRX61pa9C3xlpAGYw1vOu8C2SBZZFlld7DAW82RJWmwYMI1AJCKBNCIASqdZGFmtPSNQRhMpR0EKjWTwm6z6sJ+4jqhxjovTinVdRpZaQjaQzAYjI8NgAKDJCokgunCn9oUQE8VZd/F//+v6P4F1U9gLr58yNI/dJX9BAshEoJbTDogz7ocKoUsPvES8UK/aQIUQgpGgECBVLkOEV6iASTYgNAPKdNXayhDPL7IJuAZnEYSZ0eOLc9i5Rv5/+lEi3sW/kfnCf/+fTe0sxS7CKLx5erRJkKOixEqQaoqrvx5HN4iz4VhX0gS6DjFIWUzn/fIXJRVFY1NFRVNVeFt+SYmrK6vCU6eJsnKnJj5HTESMTQZOTI3Y/tzr3rUcOsiRy/ciP50s3Mycgxmhz9GMXhjzVH30ut796NHP0UUa31/Zoa6vCH6iPvdIM0IRANaT60FablmZlZd+UKNFy9NrvnFGxb5NC2CRxR0/rIyF/WNn+35sv9r+tHVhkseuWGKkCPPh96+GXt8Lc/Sh24ujfjf+tNw1lZWreiPuHb/PSpyjdv2rf/++ZE5TSKjFdZxYsBvr1sEHl5STuHZqYR7jGYGvGBBdjcaB5bODY1GAxMjsd0wDMIzXAXODRd74DxNMtO4YuYHclgLQRzp9KlUmxptCwv9bYgvWGD2xBW7r9413fdJu+mxzvzAUYeeONQvZP4kgfqZle4jhH/MWh+UbxgtJdrLdXLymNL53PRU0D3Q6FcXTfGqGcul6vrqhgLGAVSv+IVIfZOHpu+mlLqSlnj903j8mazXDsba/wbxhS/4Oubh1c5/uXDgt4j5KtnGEy5BIJHo0ur+jD+r2qCkuP1aRVM8EpUoRYSJyqNRA38uwDvHBNo0AejO2Z+ZYLLal1QiFyFh1EDQOgSCSCpjwwKU8yDbIjroEwne0G5Qca49cYp4AlqtQNZfWTQoFb1tRpFYAmRD+HXTkV4uQhG2bg4OKmyoypAsUGtWgQXyFxYrkpODeUxvGqIZA61erXo0sFG1UBGuPgpuon8RNUG2DhovAjZCBuZwtXrU3mQGki9+pm0eVZAXoWxLWTQoYHBPrJR4WunNxIFbCHfkTyPK+sqxjxDmGArZvf79JGJ3GwEqjwc7a7NIrl/7bJ7Nzu4+n1Ow6shEPnUrtVo7cnd5Wi5qCUbBIQbNKCP95FMCSZylEV5VCiiMqqiOmrKZ/I/C0gI1fyuulVcM2E1r4MhtcV/fbCD+HwEvVzH1dGNAzFE0FTbKzyQz3gootrNbN2a4PuG0j0JOgE=') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+    }
+    
+      .st_hub {
+        animation: st_pulse 3s ease-in-out infinite;
+      }
+      @keyframes st_pulse {
+        0%, 100% { transform: scale(1); }
+        50%      { transform: scale(1.03); }
+      }
+      
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+      }
+    }
+
+    </style>
+    
+  <pattern id="st_dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#1c2848" opacity="0.6"/>
+  </pattern>
+  <linearGradient id="st_lr" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#247bff"/>
+    <stop offset="50%" stop-color="#7b3fff"/>
+    <stop offset="100%" stop-color="#ff354f"/>
+  </linearGradient>
+  <linearGradient id="st_bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#070b16"/>
+    <stop offset="100%" stop-color="#0a1224"/>
+  </linearGradient>
+  <linearGradient id="st_cardbg" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#0e172a"/>
+    <stop offset="100%" stop-color="#090e1a"/>
+  </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="450" rx="14" fill="url(#st_bg)"/>
+  <rect width="860" height="450" rx="14" fill="url(#st_dots)"/>
+  <rect x="0.75" y="0.75" width="858.5" height="448.5" rx="13.25"
+        fill="none" stroke="url(#st_lr)" stroke-width="1.5"/>
+
+  <!-- Orbits and Tech Nodes -->
+  
+    <!-- Orbit Ellipse rx=120 ry=46 -->
+    <g transform="rotate(-14, 430, 185)">
+      <ellipse cx="430" cy="185" rx="120" ry="46"
+               fill="none" stroke="#247bff" stroke-width="1" stroke-dasharray="5 7" opacity="0.45"/>
+    </g>
+    <g class="st_pill">
+      <rect x="383" y="129" width="70" height="22" rx="11"
+            fill="#0d1526" stroke="#247bff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(389, 133.5) scale(0.542)"><path d="M11.966 0C5.923 0 6.29 2.68 6.29 2.68l.007 2.777h5.775v.834H3.905S0 5.843 0 11.966C0 18.09 3.393 17.86 3.393 17.86h2.027v-2.886s-.11-3.393 3.338-3.393h5.748s3.23.052 3.23-3.125V3.23C17.736.415 14.8 0 11.966 0zM8.717 1.86a1.048 1.048 0 11-.001 2.097 1.048 1.048 0 010-2.097zM12 12c-6.078 0-5.748 2.886-5.748 2.886l.007 2.777h5.775v.834H4.867S1.474 18.25 1.474 12.166C1.474 6.044 4.867 6.272 4.867 6.272H6.893v2.887s-.11 3.393 3.338 3.393h5.748s3.23.052 3.23-3.125V6.022S18.77 12 12 12zm3.283 7.928a1.048 1.048 0 11.001-2.096 1.048 1.048 0 01-.001 2.096z" fill="#247bff"/></g>
+      <text x="406" y="144" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">Python</text>
+    </g>
+    <g class="st_pill">
+      <rect x="508" y="144" width="77" height="22" rx="11"
+            fill="#0d1526" stroke="#247bff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(514, 148.5) scale(0.542)"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 13.95 9.866 9.866 0 0013.95 0 9.866 9.866 0 000-13.95L16.18 9.778a5.23 5.23 0 010 7.395 5.23 5.23 0 01-7.396 0 5.23 5.23 0 010-7.396l3.22-3.22L12.006 0zM15.53 3.336a1.302 1.302 0 100 2.604 1.302 1.302 0 000-2.604z" fill="#247bff"/></g>
+      <text x="531" y="159" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">PyTorch</text>
+    </g>
+    <g class="st_pill">
+      <rect x="392" y="218" width="98" height="22" rx="11"
+            fill="#0d1526" stroke="#247bff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(398, 222.5) scale(0.542)"><path d="M1.92 4.48L11.52 0l9.6 4.48v15.04l-9.6 4.48-9.6-4.48V4.48zm9.6 1.92L4.8 9.28v10.4l6.72 3.13 6.72-3.13V9.28l-6.72-2.88z" fill="#247bff"/></g>
+      <text x="415" y="233" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">TensorFlow</text>
+    </g>
+    <g class="st_pill">
+      <rect x="257" y="203" width="112" height="22" rx="11"
+            fill="#0d1526" stroke="#247bff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(263, 207.5) scale(0.542)"><path d="M11.966 0C5.923 0 6.29 2.68 6.29 2.68l.007 2.777h5.775v.834H3.905S0 5.843 0 11.966C0 18.09 3.393 17.86 3.393 17.86h2.027v-2.886s-.11-3.393 3.338-3.393h5.748s3.23.052 3.23-3.125V3.23C17.736.415 14.8 0 11.966 0zM8.717 1.86a1.048 1.048 0 11-.001 2.097 1.048 1.048 0 010-2.097zM12 12c-6.078 0-5.748 2.886-5.748 2.886l.007 2.777h5.775v.834H4.867S1.474 18.25 1.474 12.166C1.474 6.044 4.867 6.272 4.867 6.272H6.893v2.887s-.11 3.393 3.338 3.393h5.748s3.23.052 3.23-3.125V6.022S18.77 12 12 12zm3.283 7.928a1.048 1.048 0 11.001-2.096 1.048 1.048 0 01-.001 2.096z" fill="#247bff"/></g>
+      <text x="280" y="218" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">Scikit-learn</text>
+    </g>
+    <!-- Orbit Ellipse rx=195 ry=74 -->
+    <g transform="rotate(-14, 430, 185)">
+      <ellipse cx="430" cy="185" rx="195" ry="74"
+               fill="none" stroke="#7b3fff" stroke-width="1" stroke-dasharray="5 7" opacity="0.45"/>
+    </g>
+    <g class="st_pill">
+      <rect x="367" y="102" width="91" height="22" rx="11"
+            fill="#0d1526" stroke="#7b3fff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(373, 106.5) scale(0.542)"><path d="M11.966 0C5.923 0 6.29 2.68 6.29 2.68l.007 2.777h5.775v.834H3.905S0 5.843 0 11.966C0 18.09 3.393 17.86 3.393 17.86h2.027v-2.886s-.11-3.393 3.338-3.393h5.748s3.23.052 3.23-3.125V3.23C17.736.415 14.8 0 11.966 0zM8.717 1.86a1.048 1.048 0 11-.001 2.097 1.048 1.048 0 010-2.097zM12 12c-6.078 0-5.748 2.886-5.748 2.886l.007 2.777h5.775v.834H4.867S1.474 18.25 1.474 12.166C1.474 6.044 4.867 6.272 4.867 6.272H6.893v2.887s-.11 3.393 3.338 3.393h5.748s3.23.052 3.23-3.125V6.022S18.77 12 12 12zm3.283 7.928a1.048 1.048 0 11.001-2.096 1.048 1.048 0 01-.001 2.096z" fill="#7b3fff"/></g>
+      <text x="390" y="117" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">LangChain</text>
+    </g>
+    <g class="st_pill">
+      <rect x="559" y="106" width="91" height="22" rx="11"
+            fill="#0d1526" stroke="#7b3fff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(565, 110.5) scale(0.542)"><path d="M11.966 0C5.923 0 6.29 2.68 6.29 2.68l.007 2.777h5.775v.834H3.905S0 5.843 0 11.966C0 18.09 3.393 17.86 3.393 17.86h2.027v-2.886s-.11-3.393 3.338-3.393h5.748s3.23.052 3.23-3.125V3.23C17.736.415 14.8 0 11.966 0zM8.717 1.86a1.048 1.048 0 11-.001 2.097 1.048 1.048 0 010-2.097zM12 12c-6.078 0-5.748 2.886-5.748 2.886l.007 2.777h5.775v.834H4.867S1.474 18.25 1.474 12.166C1.474 6.044 4.867 6.272 4.867 6.272H6.893v2.887s-.11 3.393 3.338 3.393h5.748s3.23.052 3.23-3.125V6.022S18.77 12 12 12zm3.283 7.928a1.048 1.048 0 11.001-2.096 1.048 1.048 0 01-.001 2.096z" fill="#7b3fff"/></g>
+      <text x="582" y="121" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">LangGraph</text>
+    </g>
+    <g class="st_pill">
+      <rect x="506" y="204" width="98" height="22" rx="11"
+            fill="#0d1526" stroke="#7b3fff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(512, 208.5) scale(0.542)"><path d="M12 0C12 6.627 6.627 12 0 12c6.627 0 12 5.373 12 12 0-6.627 5.373-12 12-12-6.627 0-12-5.373-12-12z" fill="#7b3fff"/></g>
+      <text x="529" y="219" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">Gemini API</text>
+    </g>
+    <g class="st_pill">
+      <rect x="284" y="259" width="98" height="22" rx="11"
+            fill="#0d1526" stroke="#7b3fff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(290, 263.5) scale(0.542)"><path d="M22.28 9.9a6.08 6.08 0 0 0-.53-4.99 6.2 6.2 0 0 0-4.32-2.97 6.24 6.24 0 0 0-5.8 1.54A6.16 6.16 0 0 0 7.42 2a6.22 6.22 0 0 0-5.46 3.25 6.12 6.12 0 0 0 .73 6.45 6.08 6.08 0 0 0 .53 4.99 6.2 6.2 0 0 0 4.32 2.97 6.24 6.24 0 0 0 5.8-1.54 6.16 6.16 0 0 0 4.21 1.44 6.22 6.22 0 0 0 5.46-3.25 6.12 6.12 0 0 0-.73-6.45z" fill="#7b3fff"/></g>
+      <text x="307" y="274" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">OpenAI API</text>
+    </g>
+    <g class="st_pill">
+      <rect x="192" y="196" width="105" height="22" rx="11"
+            fill="#0d1526" stroke="#7b3fff" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(198, 200.5) scale(0.542)"><path d="M12 0C12 6.627 6.627 12 0 12c6.627 0 12 5.373 12 12 0-6.627 5.373-12 12-12-6.627 0-12-5.373-12-12z" fill="#7b3fff"/></g>
+      <text x="215" y="211" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">RAG Systems</text>
+    </g>
+    <!-- Orbit Ellipse rx=275 ry=102 -->
+    <g transform="rotate(-14, 430, 185)">
+      <ellipse cx="430" cy="185" rx="275" ry="102"
+               fill="none" stroke="#ff354f" stroke-width="1" stroke-dasharray="5 7" opacity="0.45"/>
+    </g>
+    <g class="st_pill">
+      <rect x="437" y="61" width="77" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(443, 65.5) scale(0.542)"><path d="M12 0C5.375 0 0 5.375 0 12c0 6.627 5.375 12 12 12 6.626 0 12-5.373 12-12 0-6.625-5.374-12-12-12zm-.624 21.62v-7.528H7.19L13.203 2.38v7.528h4.029L11.376 21.62z" fill="#ff354f"/></g>
+      <text x="460" y="76" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">FastAPI</text>
+    </g>
+    <g class="st_pill">
+      <rect x="650" y="84" width="63" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(656, 88.5) scale(0.542)"><path d="M14.23 12.004a2.236 2.236 0 0 1-2.235 2.236 2.236 2.236 0 0 1-2.236-2.236 2.236 2.236 0 0 1 2.235-2.236 2.236 2.236 0 0 1 2.236 2.236zm2.648-10.69c-1.346 0-3.107.96-4.888 2.622-1.78-1.653-3.542-2.602-4.887-2.602-.41 0-.783.093-1.106.278-1.375.793-1.683 3.264-.973 6.365C1.98 8.917 0 10.42 0 12.004c0 1.59 1.99 3.097 5.043 4.03-.704 3.113-.39 5.588.988 6.38.32.187.69.275 1.102.275 1.345 0 3.107-.96 4.888-2.624 1.78 1.654 3.542 2.603 4.887 2.603.41 0 .783-.09 1.106-.275 1.374-.792 1.683-3.263.973-6.365C22.02 15.096 24 13.59 24 12.004c0-1.59-1.99-3.097-5.043-4.032.704-3.11.39-5.587-.988-6.38a2.167 2.167 0 0 0-1.096-.278zm-.05 1.69a.89.89 0 0 1 .416.1c.836.48 1.043 2.388.588 4.922a22.88 22.88 0 0 1-1.014.17c-.34-.592-.694-1.168-1.066-1.717C15.82 6.62 16.28 6 16.826 6zm-8.468 0c.547 0 1.012.62 1.412 1.47-.37.548-.723 1.123-1.062 1.713a23.47 23.47 0 0 1-1.016-.17c-.456-2.526-.248-4.42.587-4.906a.9.9 0 0 1 .42-.107h.657zm4.03 1.698c.396.538.774 1.1 1.13 1.686a23.338 23.338 0 0 1-2.26 0c.356-.585.735-1.146 1.13-1.686zm0 5.364c.39.54.765 1.1 1.12 1.678-.356.575-.73 1.138-1.12 1.677-.39-.54-.765-1.102-1.12-1.677.356-.578.73-1.138 1.12-1.678zm-4.87.76c.335.59.69 1.17 1.063 1.716C7.63 17.378 7.17 18 6.626 18c-.547 0-1.012-.62-1.412-1.468.368-.548.722-1.124 1.062-1.714a23.62 23.62 0 0 1 1.013.168zm7.754 0c.34.59.694 1.166 1.014.168a23.62 23.62 0 0 1 1.013-.168c-.37.548-.72 1.124-1.062 1.714C16.784 17.38 16.32 18 15.774 18c-.547 0-1.012-.62-1.41-1.468zm-3.66 3.04c.356-.585.735-1.146 1.13-1.686.395.538.774 1.1 1.13 1.686a23.338 23.338 0 0 1-2.26 0z" fill="#ff354f"/></g>
+      <text x="673" y="99" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">React</text>
+    </g>
+    <g class="st_pill">
+      <rect x="601" y="196" width="70" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(607, 200.5) scale(0.542)"><path d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .102.082.185.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .102.083.185.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .102.084.185.186.186m5.893 2.715h2.118a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.184-.186h-2.12a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185m-2.92 0h2.12a.186.186 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.082.185.184.185m21.854 3.025c-.418-1.023-1.475-1.74-2.757-1.74-.617 0-1.19.164-1.676.447a4.51 4.51 0 00-4.47-3.905c-2.492 0-4.508 2.015-4.508 4.508 0 .05.003.1.004.15H.926C.414 13.398 0 13.812 0 14.324v3.352C0 18.188.414 18.6.926 18.6h23.148c.512 0 .926-.412.926-.924V14.1c0-.362-.205-.677-.508-.843a3.573 3.573 0 00.508-1.847zM4.028 11.078h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.185-.186H4.028a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185z" fill="#ff354f"/></g>
+      <text x="624" y="211" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">Docker</text>
+    </g>
+    <g class="st_pill">
+      <rect x="360" y="286" width="49" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(366, 290.5) scale(0.542)"><path d="M6.763 10.036c0 .296.032.535.088.71.064.176.144.368.256.576.04.063.056.127.056.183 0 .08-.048.16-.152.24l-.503.335a.383.383 0 01-.208.072c-.08 0-.16-.04-.239-.112a2.47 2.47 0 01-.287-.375 6.18 6.18 0 01-.248-.471c-.622.734-1.405 1.101-2.347 1.101-.67 0-1.205-.191-1.596-.574-.391-.384-.59-.894-.59-1.533 0-.678.239-1.23.726-1.644.486-.415 1.133-.623 1.955-.623.272 0 .551.024.846.064.296.04.6.104.918.176v-.583c0-.607-.127-1.03-.375-1.277-.255-.248-.686-.367-1.3-.367-.28 0-.568.031-.863.103-.295.072-.583.16-.862.272a2.287 2.287 0 01-.28.104.488.488 0 01-.127.023c-.112 0-.168-.08-.168-.247v-.391c0-.128.016-.224.056-.28a.597.597 0 01.224-.167c.279-.144.614-.264 1.005-.36a4.84 4.84 0 011.246-.151c.95 0 1.644.216 2.091.647.439.43.662 1.085.662 1.963v2.586zm-3.24 1.214c.263 0 .534-.048.822-.144.287-.096.543-.271.758-.51.128-.152.224-.32.272-.512.047-.191.08-.423.08-.694v-.335a6.66 6.66 0 00-.735-.136 6.02 6.02 0 00-.75-.048c-.535 0-.926.104-1.19.32-.263.215-.39.518-.39.917 0 .375.095.655.295.846.191.2.47.296.838.296zm6.41.862c-.144 0-.24-.024-.304-.08-.063-.048-.12-.16-.168-.311L7.586 5.55a1.398 1.398 0 01-.072-.32c0-.128.064-.2.191-.2h.783c.152 0 .255.025.31.08.065.048.113.16.16.312l1.342 5.284 1.245-5.284c.04-.16.088-.264.151-.312a.549.549 0 01.32-.08h.638c.152 0 .256.025.32.08.063.048.12.16.151.312l1.261 5.348 1.381-5.348c.048-.16.104-.264.16-.312a.52.52 0 01.311-.08h.743c.127 0 .2.065.2.2 0 .04-.009.08-.017.128a1.137 1.137 0 01-.056.2l-1.923 6.17c-.048.16-.104.263-.168.311a.51.51 0 01-.303.08h-.687c-.151 0-.255-.024-.32-.08-.063-.056-.119-.16-.15-.32l-1.238-5.148-1.23 5.14c-.04.16-.087.264-.15.32-.065.056-.177.08-.32.08zm10.256.215c-.415 0-.83-.048-1.229-.143-.399-.096-.71-.2-.918-.32-.128-.071-.215-.151-.247-.223a.563.563 0 01-.048-.224v-.407c0-.167.064-.247.183-.247.048 0 .096.008.144.024.048.016.12.048.2.08.271.12.566.215.878.279.319.064.63.096.95.096.503 0 .894-.088 1.165-.264a.86.86 0 00.415-.758.777.777 0 00-.215-.559c-.144-.151-.415-.287-.806-.415l-1.157-.36c-.583-.183-1.014-.454-1.277-.813a1.902 1.902 0 01-.4-1.158c0-.335.073-.63.216-.886.144-.255.335-.479.574-.662.24-.184.51-.32.83-.415.32-.096.655-.136 1.006-.136.175 0 .359.008.535.032.183.024.35.056.518.088.16.04.312.08.455.127.144.048.256.096.336.144a.69.69 0 01.24.2.43.43 0 01.071.263v.375c0 .168-.064.256-.184.256a.83.83 0 01-.303-.096 3.652 3.652 0 00-1.532-.311c-.455 0-.815.071-1.062.224-.248.152-.375.383-.375.71 0 .224.08.416.24.567.159.152.454.304.877.44l1.134.358c.574.184.99.44 1.237.767.247.327.367.702.367 1.117 0 .343-.072.655-.207.926-.144.272-.336.511-.583.703-.248.2-.543.343-.886.447-.36.111-.743.167-1.166.167z" fill="#ff354f"/></g>
+      <text x="383" y="301" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">AWS</text>
+    </g>
+    <g class="st_pill">
+      <rect x="136" y="263" width="84" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(142, 267.5) scale(0.542)"><path d="M11.966 0C5.923 0 6.29 2.68 6.29 2.68l.007 2.777h5.775v.834H3.905S0 5.843 0 11.966C0 18.09 3.393 17.86 3.393 17.86h2.027v-2.886s-.11-3.393 3.338-3.393h5.748s3.23.052 3.23-3.125V3.23C17.736.415 14.8 0 11.966 0zM8.717 1.86a1.048 1.048 0 11-.001 2.097 1.048 1.048 0 010-2.097zM12 12c-6.078 0-5.748 2.886-5.748 2.886l.007 2.777h5.775v.834H4.867S1.474 18.25 1.474 12.166C1.474 6.044 4.867 6.272 4.867 6.272H6.893v2.887s-.11 3.393 3.338 3.393h5.748s3.23.052 3.23-3.125V6.022S18.77 12 12 12zm3.283 7.928a1.048 1.048 0 11.001-2.096 1.048 1.048 0 01-.001 2.096z" fill="#ff354f"/></g>
+      <text x="159" y="278" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">ChromaDB</text>
+    </g>
+    <g class="st_pill">
+      <rect x="199" y="151" width="49" height="22" rx="11"
+            fill="#0d1526" stroke="#ff354f" stroke-width="1" opacity="0.95"/>
+      <g transform="translate(205, 155.5) scale(0.542)"><path d="M23.546 10.93L13.067.452a1.5 1.5 0 0 0-2.126 0L8.808 2.585l3.546 3.546a1.78 1.78 0 0 1 2.247 2.26l3.418 3.418a1.78 1.78 0 1 1-1.07 1.042l-3.21-3.21a1.78 1.78 0 0 1-1.928-.387l-3.5 3.5a1.78 1.78 0 1 1-1.06-1.062L10.74 8.2a1.78 1.78 0 0 1-.368-1.942L6.85 2.735.454 9.13a1.5 1.5 0 0 0 0 2.126l10.48 10.48a1.5 1.5 0 0 0 2.125 0l10.487-10.68a1.5 1.5 0 0 0 0-2.125z" fill="#ff354f"/></g>
+      <text x="222" y="166" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700"
+            fill="#eef0f8" text-anchor="start">Git</text>
+    </g>
+
+  <!-- Center Hub Nucleus -->
+  <g transform="translate(430, 185)">
+    <circle cx="0" cy="0" r="42" fill="#0d1526" stroke="url(#st_lr)" stroke-width="2"/>
+    <circle cx="0" cy="0" r="36" fill="#111c35"/>
+    <text x="0" y="-4" font-family="'Space Grotesk', sans-serif" font-size="11" font-weight="700" fill="#eef0f8" text-anchor="middle" letter-spacing="1">SNEHA</text>
+    <text x="0" y="10" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="700" fill="#247bff" text-anchor="middle" letter-spacing="2">AI STACK</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="28" y1="334" x2="832" y2="334" stroke="#1c2848" stroke-width="1"/>
+
+  <!-- Grouped Tech Chips -->
+  
+    <text x="28" y="352" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#247bff" letter-spacing="1.5">
+      MACHINE LEARNING &amp; MODELS
+    </text>
+    <rect x="28" y="362" width="54" height="19" rx="9.5" fill="#247bff" fill-opacity="0.12" stroke="#247bff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="55" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Python</text>
+    <rect x="88" y="362" width="60" height="19" rx="9.5" fill="#247bff" fill-opacity="0.12" stroke="#247bff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="118" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">PyTorch</text>
+    <rect x="154" y="362" width="78" height="19" rx="9.5" fill="#247bff" fill-opacity="0.12" stroke="#247bff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="193" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">TensorFlow</text>
+    <rect x="28" y="386" width="90" height="19" rx="9.5" fill="#247bff" fill-opacity="0.12" stroke="#247bff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="73" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Transformers</text>
+    <rect x="124" y="386" width="90" height="19" rx="9.5" fill="#247bff" fill-opacity="0.12" stroke="#247bff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="169" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Scikit-learn</text>
+    <text x="302" y="352" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#7b3fff" letter-spacing="1.5">
+      GENAI &amp; AGENTIC SYSTEMS
+    </text>
+    <rect x="302" y="362" width="72" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="338" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">LangChain</text>
+    <rect x="380" y="362" width="72" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="416" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">LangGraph</text>
+    <rect x="458" y="362" width="78" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="497" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Gemini API</text>
+    <rect x="302" y="386" width="78" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="341" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">OpenAI API</text>
+    <rect x="386" y="386" width="36" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="404" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">RAG</text>
+    <rect x="428" y="386" width="48" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="452" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">FAISS</text>
+    <rect x="482" y="386" width="66" height="19" rx="9.5" fill="#7b3fff" fill-opacity="0.12" stroke="#7b3fff" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="515" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">ChromaDB</text>
+    <text x="576" y="352" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#ff354f" letter-spacing="1.5">
+      BACKEND &amp; INFRASTRUCTURE
+    </text>
+    <rect x="576" y="362" width="60" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="606" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">FastAPI</text>
+    <rect x="642" y="362" width="48" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="666" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">React</text>
+    <rect x="696" y="362" width="54" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="723" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Docker</text>
+    <rect x="756" y="362" width="36" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="774" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">AWS</text>
+    <rect x="798" y="362" width="36" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="816" y="375" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">SQL</text>
+    <rect x="576" y="386" width="36" height="19" rx="9.5" fill="#ff354f" fill-opacity="0.12" stroke="#ff354f" stroke-opacity="0.5" stroke-width="0.8"/>
+    <text x="594" y="399" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#eef0f8" text-anchor="middle">Git</text>
+</svg>

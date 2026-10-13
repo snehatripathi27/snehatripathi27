@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 860 380" width="860" height="380" role="img"
+     aria-label="Capabilities and Interests Carousel">
+  <title>Capabilities &amp; Interests — Sneha Tripathi</title>
+  <!-- Font Licenses: Space Grotesk (OFL 1.1, Florian Karsten), JetBrains Mono (OFL 1.1, JetBrains) -->
+  <defs>
+    <style>
+      
+    @font-face {
+      font-family: 'Space Grotesk';
+      src: url('data:font/woff2;base64,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') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('data:font/woff2;base64,d09GMgABAAAAAASIABAAAAAACQQAAAQuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbHhwoBmA/U1RBVF4AdBEICoRkhAALIAABNgIkAzoEIAWFAAeBFAwHG2oHKJ6DceNW4lJEFHn9tEOE37LNsvkjHr7f739rn3u+OSrSxLQytE91Dw2PYtNVq3Qaw/vJ7fUBMdOj/u2ImB98cT5WUx9F13ZKt06mU7tG1sAYcM26yCRX4f/0904bmwq8hwkUUMTRX61pa9C3xlpAGYw1vOu8C2SBZZFlld7DAW82RJWmwYMI1AJCKBNCIASqdZGFmtPSNQRhMpR0EKjWTwm6z6sJ+4jqhxjovTinVdRpZaQjaQzAYjI8NgAKDJCokgunCn9oUQE8VZd/F//+v6P4F1U9gLr58yNI/dJX9BAshEoJbTDogz7ocKoUsPvES8UK/aQIUQgpGgECBVLkOEV6iASTYgNAPKdNXayhDPL7IJuAZnEYSZ0eOLc9i5Rv5/+lEi3sW/kfnCf/+fTe0sxS7CKLx5erRJkKOixEqQaoqrvx5HN4iz4VhX0gS6DjFIWUzn/fIXJRVFY1NFRVNVeFt+SYmrK6vCU6eJsnKnJj5HTESMTQZOTI3Y/tzr3rUcOsiRy/ciP50s3Mycgxmhz9GMXhjzVH30ut796NHP0UUa31/Zoa6vCH6iPvdIM0IRANaT60FablmZlZd+UKNFy9NrvnFGxb5NC2CRxR0/rIyF/WNn+35sv9r+tHVhkseuWGKkCPPh96+GXt8Lc/Sh24ujfjf+tNw1lZWreiPuHb/PSpyjdv2rf/++ZE5TSKjFdZxYsBvr1sEHl5STuHZqYR7jGYGvGBBdjcaB5bODY1GAxMjsd0wDMIzXAXODRd74DxNMtO4YuYHclgLQRzp9KlUmxptCwv9bYgvWGD2xBW7r9413fdJu+mxzvzAUYeeONQvZP4kgfqZle4jhH/MWh+UbxgtJdrLdXLymNL53PRU0D3Q6FcXTfGqGcul6vrqhgLGAVSv+IVIfZOHpu+mlLqSlnj903j8mazXDsba/wbxhS/4Oubh1c5/uXDgt4j5KtnGEy5BIJHo0ur+jD+r2qCkuP1aRVM8EpUoRYSJyqNRA38uwDvHBNo0AejO2Z+ZYLLal1QiFyFh1EDQOgSCSCpjwwKU8yDbIjroEwne0G5Qca49cYp4AlqtQNZfWTQoFb1tRpFYAmRD+HXTkV4uQhG2bg4OKmyoypAsUGtWgQXyFxYrkpODeUxvGqIZA61erXo0sFG1UBGuPgpuon8RNUG2DhovAjZCBuZwtXrU3mQGki9+pm0eVZAXoWxLWTQoYHBPrJR4WunNxIFbCHfkTyPK+sqxjxDmGArZvf79JGJ3GwEqjwc7a7NIrl/7bJ7Nzu4+n1Ow6shEPnUrtVo7cnd5Wi5qCUbBIQbNKCP95FMCSZylEV5VCiiMqqiOmrKZ/I/C0gI1fyuulVcM2E1r4MhtcV/fbCD+HwEvVzH1dGNAzFE0FTbKzyQz3gootrNbN2a4PuG0j0JOgE=') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'JetBrains Mono';
+      src: url('data:font/woff2;base64,d09GMgABAAAAAASIABAAAAAACQQAAAQuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbHhwoBmA/U1RBVF4AdBEICoRkhAALIAABNgIkAzoEIAWFAAeBFAwHG2oHKJ6DceNW4lJEFHn9tEOE37LNsvkjHr7f739rn3u+OSrSxLQytE91Dw2PYtNVq3Qaw/vJ7fUBMdOj/u2ImB98cT5WUx9F13ZKt06mU7tG1sAYcM26yCRX4f/0904bmwq8hwkUUMTRX61pa9C3xlpAGYw1vOu8C2SBZZFlld7DAW82RJWmwYMI1AJCKBNCIASqdZGFmtPSNQRhMpR0EKjWTwm6z6sJ+4jqhxjovTinVdRpZaQjaQzAYjI8NgAKDJCokgunCn9oUQE8VZd/F//+v6P4F1U9gLr58yNI/dJX9BAshEoJbTDogz7ocKoUsPvES8UK/aQIUQgpGgECBVLkOEV6iASTYgNAPKdNXayhDPL7IJuAZnEYSZ0eOLc9i5Rv5/+lEi3sW/kfnCf/+fTe0sxS7CKLx5erRJkKOixEqQaoqrvx5HN4iz4VhX0gS6DjFIWUzn/fIXJRVFY1NFRVNVeFt+SYmrK6vCU6eJsnKnJj5HTESMTQZOTI3Y/tzr3rUcOsiRy/ciP50s3Mycgxmhz9GMXhjzVH30ut796NHP0UUa31/Zoa6vCH6iPvdIM0IRANaT60FablmZlZd+UKNFy9NrvnFGxb5NC2CRxR0/rIyF/WNn+35sv9r+tHVhkseuWGKkCPPh96+GXt8Lc/Sh24ujfjf+tNw1lZWreiPuHb/PSpyjdv2rf/++ZE5TSKjFdZxYsBvr1sEHl5STuHZqYR7jGYGvGBBdjcaB5bODY1GAxMjsd0wDMIzXAXODRd74DxNMtO4YuYHclgLQRzp9KlUmxptCwv9bYgvWGD2xBW7r9413fdJu+mxzvzAUYeeONQvZP4kgfqZle4jhH/MWh+UbxgtJdrLdXLymNL53PRU0D3Q6FcXTfGqGcul6vrqhgLGAVSv+IVIfZOHpu+mlLqSlnj903j8mazXDsba/wbxhS/4Oubh1c5/uXDgt4j5KtnGEy5BIJHo0ur+jD+r2qCkuP1aRVM8EpUoRYSJyqNRA38uwDvHBNo0AejO2Z+ZYLLal1QiFyFh1EDQOgSCSCpjwwKU8yDbIjroEwne0G5Qca49cYp4AlqtQNZfWTQoFb1tRpFYAmRD+HXTkV4uQhG2bg4OKmyoypAsUGtWgQXyFxYrkpODeUxvGqIZA61erXo0sFG1UBGuPgpuon8RNUG2DhovAjZCBuZwtXrU3mQGki9+pm0eVZAXoWxLWTQoYHBPrJR4WunNxIFbCHfkTyPK+sqxjxDmGArZvf79JGJ3GwEqjwc7a7NIrl/7bJ7Nzu4+n1Ow6shEPnUrtVo7cnd5Wi5qCUbBIQbNKCP95FMCSZylEV5VCiiMqqiOmrKZ/I/C0gI1fyuulVcM2E1r4MhtcV/fbCD+HwEvVzH1dGNAzFE0FTbKzyQz3gootrNbN2a4PuG0j0JOgE=') format('woff2');
+      font-weight: 700;
+      font-style: normal;
+    }
+    
+      .ab_cardin {
+        animation: ab_ci 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+      }
+      @keyframes ab_ci {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+      }
+    }
+
+    </style>
+    
+  <pattern id="ab_dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#1c2848" opacity="0.6"/>
+  </pattern>
+  <linearGradient id="ab_lr" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#247bff"/>
+    <stop offset="50%" stop-color="#7b3fff"/>
+    <stop offset="100%" stop-color="#ff354f"/>
+  </linearGradient>
+  <linearGradient id="ab_bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#070b16"/>
+    <stop offset="100%" stop-color="#0a1224"/>
+  </linearGradient>
+  <linearGradient id="ab_cardbg" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#0e172a"/>
+    <stop offset="100%" stop-color="#090e1a"/>
+  </linearGradient>
+
+  </defs>
+
+  <!-- Container Base -->
+  <rect width="860" height="380" rx="14" fill="url(#ab_bg)"/>
+  <rect width="860" height="380" rx="14" fill="url(#ab_dots)"/>
+  <rect x="0.75" y="0.75" width="858.5" height="378.5" rx="13.25"
+        fill="none" stroke="url(#ab_lr)" stroke-width="1.5"/>
+
+  <!-- LEFT PANEL: Core Capabilities -->
+  <g class="ab_cardin" style="animation-delay: 0.1s;">
+    <rect x="24" y="24" width="388" height="332" rx="12" fill="url(#ab_cardbg)" stroke="#1c2848" stroke-width="1"/>
+    <text x="44" y="56" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#247bff" letter-spacing="2">
+      // PRODUCTION STRENGTHS
+    </text>
+    <text x="44" y="78" font-family="'Space Grotesk', sans-serif" font-size="18" font-weight="700" fill="#eef0f8">
+      Core Capabilities
+    </text>
+    
+    <!-- Skill 0: Agentic AI Systems -->
+    <text x="44" y="100" font-family="'JetBrains Mono', monospace" font-size="12" fill="#eef0f8">Agentic AI Systems</text>
+    <text x="384" y="100" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#247bff" text-anchor="end">95%</text>
+    <rect x="44" y="108" width="340" height="7" rx="3.5" fill="#111c35"/>
+    <rect x="44" y="108" width="323" height="7" rx="3.5" fill="#247bff">
+      <animate attributeName="width" begin="0s" dur="1.2s" fill="freeze"
+               keyTimes="0;0.00;1" values="0;0;323"
+               calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1"/>
+    </rect>
+    <!-- Skill 1: LLM Evaluation &amp; Benchmarking -->
+    <text x="44" y="148" font-family="'JetBrains Mono', monospace" font-size="12" fill="#eef0f8">LLM Evaluation &amp; Benchmarking</text>
+    <text x="384" y="148" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#7b3fff" text-anchor="end">92%</text>
+    <rect x="44" y="156" width="340" height="7" rx="3.5" fill="#111c35"/>
+    <rect x="44" y="156" width="312" height="7" rx="3.5" fill="#7b3fff">
+      <animate attributeName="width" begin="0s" dur="1.2s" fill="freeze"
+               keyTimes="0;0.12;1" values="0;0;312"
+               calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1"/>
+    </rect>
+    <!-- Skill 2: Multimodal RAG Architectures -->
+    <text x="44" y="196" font-family="'JetBrains Mono', monospace" font-size="12" fill="#eef0f8">Multimodal RAG Architectures</text>
+    <text x="384" y="196" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#247bff" text-anchor="end">90%</text>
+    <rect x="44" y="204" width="340" height="7" rx="3.5" fill="#111c35"/>
+    <rect x="44" y="204" width="306" height="7" rx="3.5" fill="#247bff">
+      <animate attributeName="width" begin="0s" dur="1.2s" fill="freeze"
+               keyTimes="0;0.24;1" values="0;0;306"
+               calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1"/>
+    </rect>
+    <!-- Skill 3: AI Safety &amp; Guardrails -->
+    <text x="44" y="244" font-family="'JetBrains Mono', monospace" font-size="12" fill="#eef0f8">AI Safety &amp; Guardrails</text>
+    <text x="384" y="244" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#ff354f" text-anchor="end">86%</text>
+    <rect x="44" y="252" width="340" height="7" rx="3.5" fill="#111c35"/>
+    <rect x="44" y="252" width="292" height="7" rx="3.5" fill="#ff354f">
+      <animate attributeName="width" begin="0s" dur="1.2s" fill="freeze"
+               keyTimes="0;0.36;1" values="0;0;292"
+               calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1"/>
+    </rect>
+    <!-- Skill 4: Production AI Workflows -->
+    <text x="44" y="292" font-family="'JetBrains Mono', monospace" font-size="12" fill="#eef0f8">Production AI Workflows</text>
+    <text x="384" y="292" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#7b3fff" text-anchor="end">88%</text>
+    <rect x="44" y="300" width="340" height="7" rx="3.5" fill="#111c35"/>
+    <rect x="44" y="300" width="299" height="7" rx="3.5" fill="#7b3fff">
+      <animate attributeName="width" begin="0s" dur="1.2s" fill="freeze"
+               keyTimes="0;0.48;1" values="0;0;299"
+               calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1"/>
+    </rect>
+  </g>
+
+  <!-- RIGHT PANEL: Interests & Research Carousel -->
+  <g class="ab_cardin" style="animation-delay: 0.25s;">
+    <rect x="448" y="24" width="388" height="332" rx="12" fill="url(#ab_cardbg)" stroke="#1c2848" stroke-width="1"/>
+    <text x="472" y="56" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#7b3fff" letter-spacing="2">
+      // INTERESTS &amp; PASSIONS
+    </text>
+    <text x="472" y="78" font-family="'Space Grotesk', sans-serif" font-size="18" font-weight="700" fill="#eef0f8">
+      Beyond the Code
+    </text>
+    
+    <!-- Slide 1: Frontier AI Research -->
+    <g opacity="1">
+      <animate attributeName="opacity" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.0000;0.0400;0.2933;0.3333;1" values="0;0;1;1;0;0" calcMode="linear"/>
+      <circle cx="504" cy="116" r="28" fill="#0d1526" stroke="#1c2848" stroke-width="1"/>
+      <text x="504" y="125" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle">&#x1F52C;</text>
+      <text x="546" y="115" font-family="'Space Grotesk', sans-serif" font-size="18" font-weight="700" fill="#eef0f8">Frontier AI Research</text>
+      <text x="546" y="132" font-family="'JetBrains Mono', monospace" font-size="11" fill="#247bff">Slide 1 of 3 &#x2022; 4s loop</text>
+      <text x="472" y="174" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8892a4">
+        <tspan x="472" dy="0">Deeply studying advanced model</tspan><tspan x="472" dy="20">architectures, attention mechanisms,</tspan><tspan x="472" dy="20">RLHF, post-training alignment, and</tspan><tspan x="472" dy="20">frontier papers from DeepMind, OpenAI,</tspan>
+      </text>
+    </g>
+    <!-- Slide 2: Astronomy &amp; Space Science -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.3333;0.3733;0.6267;0.6667;1" values="0;0;1;1;0;0" calcMode="linear"/>
+      <circle cx="504" cy="116" r="28" fill="#0d1526" stroke="#1c2848" stroke-width="1"/>
+      <text x="504" y="125" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle">&#x1F52D;</text>
+      <text x="546" y="115" font-family="'Space Grotesk', sans-serif" font-size="18" font-weight="700" fill="#eef0f8">Astronomy &amp; Space Science</text>
+      <text x="546" y="132" font-family="'JetBrains Mono', monospace" font-size="11" fill="#247bff">Slide 2 of 3 &#x2022; 4s loop</text>
+      <text x="472" y="174" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8892a4">
+        <tspan x="472" dy="0">Exploring stellar physics, orbital</tspan><tspan x="472" dy="20">mechanics, planetary science,</tspan><tspan x="472" dy="20">cosmology, and the convergence of deep</tspan><tspan x="472" dy="20">learning with massive astronomical</tspan>
+      </text>
+    </g>
+    <!-- Slide 3: Emerging AI Experiments -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.6667;0.7067;0.9600;1.0000;1" values="0;0;1;1;0;0" calcMode="linear"/>
+      <circle cx="504" cy="116" r="28" fill="#0d1526" stroke="#1c2848" stroke-width="1"/>
+      <text x="504" y="125" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle">&#x1F9EA;</text>
+      <text x="546" y="115" font-family="'Space Grotesk', sans-serif" font-size="18" font-weight="700" fill="#eef0f8">Emerging AI Experiments</text>
+      <text x="546" y="132" font-family="'JetBrains Mono', monospace" font-size="11" fill="#247bff">Slide 3 of 3 &#x2022; 4s loop</text>
+      <text x="472" y="174" font-family="'JetBrains Mono', monospace" font-size="12" fill="#8892a4">
+        <tspan x="472" dy="0">Designing autonomous agentic patterns,</tspan><tspan x="472" dy="20">multi-agent debates, synthetic data</tspan><tspan x="472" dy="20">generation, and evaluating reliability</tspan><tspan x="472" dy="20">against real-world adversarial failure</tspan>
+      </text>
+    </g>
+    
+    <!-- Segment 1 -->
+    <rect x="472" y="318" width="100" height="4" rx="2" fill="#111c35"/>
+    <rect x="472" y="318" width="100" height="4" rx="2" fill="url(#ab_lr)">
+      <animate attributeName="width" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.0000;0.3333;1" values="0;0;100;100" calcMode="linear"/>
+    </rect>
+    <!-- Segment 2 -->
+    <rect x="586" y="318" width="100" height="4" rx="2" fill="#111c35"/>
+    <rect x="586" y="318" width="0" height="4" rx="2" fill="url(#ab_lr)">
+      <animate attributeName="width" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.3333;0.6667;1" values="0;0;100;100" calcMode="linear"/>
+    </rect>
+    <!-- Segment 3 -->
+    <rect x="700" y="318" width="100" height="4" rx="2" fill="#111c35"/>
+    <rect x="700" y="318" width="0" height="4" rx="2" fill="url(#ab_lr)">
+      <animate attributeName="width" dur="12.0s" begin="0s" repeatCount="indefinite"
+               keyTimes="0;0.6667;1.0000;1" values="0;0;100;0" calcMode="linear"/>
+    </rect>
+  </g>
+</svg>
